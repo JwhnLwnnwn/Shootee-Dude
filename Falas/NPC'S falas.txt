@@ -1,0 +1,19 @@
+NPC 1: This is not my package.
+
+NPC 2: Do you know what you're doing?
+
+NPC 3: I'm not the one you're looking for.
+
+NPC 4: THIS PACKAGE IS NOT MINE!
+
+NPC 5: Does that package have a bomb inside?
+
+NPC 6: I don't want this...
+
+NPC 7: Why did the general send you here? Who are you? (Camp 1)
+
+NPC 8: Are you sure you're not in the wrong sector? (Camp 2)
+
+NPC 9: You should talk to the general and ask for a reassignment. (Camp 3)
+
+NPC 10: You should talk to the general and ask for some time off. (Camp 4)

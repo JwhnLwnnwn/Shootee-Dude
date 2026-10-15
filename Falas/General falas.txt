@@ -1,0 +1,51 @@
+General (opening dialogue):
+
+"Greetings, soldier! We thank you for your presence at this military installation.
+
+I remember you! That day when you saved those people... using that weapon. Excellent work. I knew we could count on you.
+
+As you know, we are at war for reasons that you know what they are. Your mission is simple: deliver this package to the recipient, at the camp where he is.
+
+But first, choose a weapon to protect yourself and apply the correct stamp on the package.
+
+Would you like more information, soldier?"
+
+General (doubt):
+Dialogue 1:
+
+"Naturally. We are at war against the enemy forces, who oppose our forces. The conflict began after a series of events that led both sides to oppose each other. Our mission is to win. Theirs is to prevent our victory."
+
+Dialogue 2:
+
+"Certainly! Our installation has a wide variety of military resources. We have barracks for the soldiers, depots for the supplies, observation posts for observing, and command centers for commanding.
+
+Our structure has been carefully organized to ensure that each department fulfills its specific function. The logistics sector handles the logistics, the operational sector handles the operations, and the administrative sector handles the administration.
+
+Naturally, all these sectors work together, although each answers to its own chain of command, which is subordinate to another higher chain of command, which in turn answers to the central command.
+
+It is an extremely efficient system, as long as each person knows exactly what they are doing.
+
+And that is precisely why we value individual initiative so highly, soldier!"
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dialogue 3:
+
+"It is essential that our military personnel understand the importance of ammunition management. Few know this, but the rifle ammunition reserve of this installation is divided into several distinct categories, according to criteria of storage, distribution, and utilization.First, we have the ammunition intended for training, which is used during training exercises. This ammunition is separated from the operational ammunition, which is reserved for military operations. The operational ammunition, in turn, is divided between the ammunition intended for planned operations and that intended for operations that have not yet been planned, but which may be planned should circumstances require additional planning.We also have the strategic reserve, which must remain reserved for strategic situations. This reserve is different from the tactical reserve, which may be used in tactical situations, provided that the utilization has been authorized by the department responsible for the authorization of utilization of tactical reserves.As for the rifles, each model has specific compatibility requirements. The ammunition of one rifle must not be confused with the ammunition of another rifle, even when both ammunitions are visually similar and present similar storage characteristics. This distinction is of the utmost importance, for an incompatible ammunition may not be compatible with the rifle for which it was designated.For this reason, all soldiers must consult the compatibility tables before requesting additional ammunition. These tables are kept in the central supply archive, which may be accessed upon authorization from the supply department, responsible for the provision of supplies to the departments that require supplies.It is important to note that the total quantity of ammunition available does not necessarily correspond to the total quantity of ammunition stored, since part of the stored ammunition may be reserved, part of the reserved ammunition may be unavailable, and part of the unavailable ammunition may be awaiting an evaluation to determine whether it may become available again.Naturally, these numbers are updated periodically, according to the reports sent by the units responsible for ammunition counting. As each unit has its own counting procedures, the reports may present small discrepancies, which are subsequently analyzed by a commission responsible for analyzing the discrepancies found in the counting reports.The commission, in turn, forwards its conclusions to the department responsible for the review of the commissions’ conclusions, which determines whether the conclusions should be accepted, revised, or forwarded to a new commission.Unfortunately, I do not have the exact numbers at this moment, for the most recent report is being reviewed by the commission responsible for the review of the most recent reports.But I can assure you, soldier, that we have a procedure for that. You don't want to hear all of that again?"
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Diálogo 4: "So do me a solid there, bro, my man."
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Diálogo 5 (Após falar com pelo menos um NPC): Hey, what's up, brother? What can I do for you right now, man?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Diálogo 6: ¿Quieres que te lo vuelva a explicar, chaval?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Diálogo 7: Alas, good soldier, thy report rings true and clear as the morning bell. The owner of this package is not nigh, nor hath he ever dwelt within these cursed bounds; thou wert dispatched unto a place most false and barren of all hope. Verily I do believe thy every word, and make no doubt thereof. Thus was thy perilous crossing of the bloody fields a labour wholly vain, a fruitless toil that profiteth neither thee nor any soul.
+
